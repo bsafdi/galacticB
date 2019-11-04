@@ -1,0 +1,2 @@
+# galacticB
+Galactic B field
